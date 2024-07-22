@@ -2,7 +2,7 @@
 
 The jupyter notebook provided in this repo can be run to replicate the analysis performed in the following paper:
 
-> Alaux, N., Treyer, K., & Passer, A. (2024). The Challenge of Modeling Tracked Electricity Consumption in EPDs: An Example for Building Materials. *IOP Conference Series: Earth and Environmental Science*
+> Alaux, N., Treyer, K., & Passer, A. (2024). The Challenge of Modeling Tracked Electricity Consumption in EPDs: An Example for Building Materials. *IOP Conference Series: Earth and Environmental Science*, 1363(1). https://doi.org/10.1088/1755-1315/1363/1/012026
 
 ### Abstract
 
