@@ -20,7 +20,10 @@ In case of using the Software for a publication or other results obtained throug
 title={The Challenge of Modeling Tracked Electricity Consumption in EPDs: An Example for Building Materials},
 author={Alaux, Nicolas and Treyer, Karin and Passer, Alexander},
 booktitle={IOP Conference Series: Earth and Environmental Science},
-pages={--},
+month = {6},
+pages = {012026},
+publisher = {IOP Publishing},
+volume = {1363},
 year={2024},
 organization={WSBE24}
 }
